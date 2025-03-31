@@ -1,0 +1,7 @@
+{
+    "idf.pythonInstallPath": "e:\\esp_idf\\tools\\tools\\idf-python\\3.11.2\\python.exe",
+    "files.associations": {
+        "cmath": "cpp",
+        "u8g2.h": "c"
+    }
+}
